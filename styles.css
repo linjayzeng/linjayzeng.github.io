@@ -1,1 +1,27 @@
-p { color: red; }
+* {
+    text-align: center;
+}
+
+p { color: rgb(132, 0, 255); }
+
+span {
+    text-align: center;
+    color: purple;
+}
+
+body {
+    color: #0c0c0c;
+    background-color: rgb(29, 29, 50);
+  }
+
+h2 {
+    color: yellow;
+}
+
+h3 { 
+    color: purple;
+}
+
+a {
+    color: pink;
+}
